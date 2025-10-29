@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Edihe Ahmed Jedou 
 
-<!--
-**EdiheAhmedJedou/EdiheAhmedJedou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electrical Engineer | Embedded Systems & Python Developer**  
+💡 Passionate about **AI-driven embedded development**, **IoT**, and **intelligent systems** that bridge hardware and software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Expertise
+
+**💻 Programming:**  
+`C` • `C++` • `Python` • `Embedded C`  
+
+**🔩 Embedded Systems:**  
+ESP32 • Arduino • STM32 • Raspberry Pi • Sensors & Actuators • UART/I2C/SPI • FreeRTOS  
+
+**🤖 AI / Automation:**  
+Computer Vision • Edge AI • Machine Learning (beginner) • Control Systems • Industrial Automation  
+
+**🧠 Tools & Platforms:**  
+VS Code • Cursor • Git/GitHub • Jupyter • MATLAB • Simulink • KiCad • Proteus • PlatformIO  
+
+---
+
+## Contact
+ - [LinkedIn](www.linkedin.com/in/edihe-ahmedjedou)
+ - [Mail](ahmedjedouedihe@gmail.com)
+
+---
+
+> “Engineering meets intelligence — I build systems that *sense, think, and act*.”
+
