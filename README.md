@@ -22,8 +22,8 @@ VS Code • Cursor • Git/GitHub • Jupyter • MATLAB • Simulink • KiCad 
 ---
 
 ## Contact
- - [LinkedIn](www.linkedin.com/in/edihe-ahmedjedou)
- - [Mail](ahmedjedouedihe@gmail.com)
+ - [LinkedIn](https://www.linkedin.com/in/edihe-ahmedjedou)
+ - [Mail](mailto:ahmedjedouedihe@gmail.com)
 
 ---
 
