@@ -14,7 +14,7 @@
 ESP32 • Arduino • STM32 • Raspberry Pi • Sensors & Actuators • UART/I2C/SPI • FreeRTOS  
 
 **🤖 AI / Automation:**  
-Computer Vision • Edge AI • Machine Learning (beginner) • Control Systems • Industrial Automation  
+Computer Vision • Edge AI • Machine Learning • Control Systems • Industrial Automation  
 
 **🧠 Tools & Platforms:**  
 VS Code • Cursor • Git/GitHub • Jupyter • MATLAB • Simulink • KiCad • Proteus • PlatformIO  
